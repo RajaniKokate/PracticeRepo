@@ -2,6 +2,7 @@ Hii
 
 I am Rajani Kokate.
 I am in automation field.
+I want to learn selenium and testng.
 
 
 Thanks
